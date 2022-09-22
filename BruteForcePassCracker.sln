@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteForcePassCracker", "BruteForcePassCracker\BruteForcePassCracker.csproj", "{AA156BBC-E394-4923-A07D-1F2C1392E95E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteForceTest", "BruteForceTest\BruteForceTest.csproj", "{99E237CA-CE46-491B-9871-6842ABA9C30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA156BBC-E394-4923-A07D-1F2C1392E95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA156BBC-E394-4923-A07D-1F2C1392E95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA156BBC-E394-4923-A07D-1F2C1392E95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA156BBC-E394-4923-A07D-1F2C1392E95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E237CA-CE46-491B-9871-6842ABA9C30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E237CA-CE46-491B-9871-6842ABA9C30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E237CA-CE46-491B-9871-6842ABA9C30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E237CA-CE46-491B-9871-6842ABA9C30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

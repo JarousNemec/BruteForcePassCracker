@@ -1,0 +1,16 @@
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\bin\Debug\net5.0\BruteForcePassCracker.exe
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\bin\Debug\net5.0\BruteForcePassCracker.deps.json
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\bin\Debug\net5.0\BruteForcePassCracker.runtimeconfig.json
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\bin\Debug\net5.0\BruteForcePassCracker.runtimeconfig.dev.json
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\bin\Debug\net5.0\BruteForcePassCracker.dll
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\bin\Debug\net5.0\ref\BruteForcePassCracker.dll
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\bin\Debug\net5.0\BruteForcePassCracker.pdb
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\obj\Debug\net5.0\BruteForcePassCracker.csproj.AssemblyReference.cache
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\obj\Debug\net5.0\BruteForcePassCracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\obj\Debug\net5.0\BruteForcePassCracker.AssemblyInfoInputs.cache
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\obj\Debug\net5.0\BruteForcePassCracker.AssemblyInfo.cs
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\obj\Debug\net5.0\BruteForcePassCracker.csproj.CoreCompileInputs.cache
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\obj\Debug\net5.0\BruteForcePassCracker.dll
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\obj\Debug\net5.0\ref\BruteForcePassCracker.dll
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\obj\Debug\net5.0\BruteForcePassCracker.pdb
+C:\Users\mortar\RiderProjects\BruteForcePassCracker\BruteForcePassCracker\obj\Debug\net5.0\BruteForcePassCracker.genruntimeconfig.cache
